@@ -1,0 +1,32 @@
+html, body {
+    background: darkslategrey;
+    -webkit-text-stroke: 1px;
+    -webkit-text-stroke-color: black;
+}
+
+button {
+    width: 100px;
+    height: 50px;
+    background: grey;
+    color: black;
+}
+
+#cookie-btn {
+    background: burlywood;
+    color: brown;
+}
+
+#sprcookie-btn {
+    background: blueviolet;
+    color: paleturquoise;
+}
+
+#ultracookie-btn {
+    background: violet;
+    color: turquoise;
+}
+
+#turbocookie-btn {
+    background: salmon;
+    color: darkred;
+}
